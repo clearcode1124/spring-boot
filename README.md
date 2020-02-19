@@ -3,5 +3,5 @@
 #### 介绍
 - 关于Spring Boot的学习
 - 传送门
-  - [Spring Boot 初章](https://blog.clearcode.top/article/spring-boot)
-  - [Spring Boot + Nutz Dao](https://blog.clearcode.top/article/spring-boot-2)
+  - [Spring Boot 初章](https://log.clearcode.top/post/springboot-chu-zhang/)
+  - [Spring Boot + Nutz Dao](https://log.clearcode.top/post/springboot-nutzdao/)
